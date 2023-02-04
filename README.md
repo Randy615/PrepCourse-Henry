@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio del modelo2 del prepcourse de Henry
+Prueba de como copiar y clonar un repositorio de github a mi escritorio local. 
